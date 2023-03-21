@@ -218,7 +218,12 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ~~~
 ## Output  :
+## OFF stage:
 ![led image](/led2.jpeg)
+
+# ON stage:
+![WhatsApp Image 2023-03-21 at 11 43 03 (2)](https://user-images.githubusercontent.com/114286357/226545447-d68f5aa6-f34b-4d78-aed1-9dae7025ce3f.jpeg)
+
  
 ## Result :
 Interfacing a digital output with ARM microcontroller is executed and the results are verified.
